@@ -29,7 +29,7 @@ This Arduino library provides support for the 7Semi-HMC6343 3-axis digital compa
 
         | SCL         | A5 (Uno)    |
 
-        | VCC         | 3.3V / 5V   |
+        | VCC         | 3.3V        |
 
         | GND         | GND         |
  
